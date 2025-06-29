@@ -11,12 +11,12 @@ A Python script that reads marks from a CSV file, groups them by roll number, an
 - Simple, efficient, and beginner-friendly
 
 
-### Sample Input and Output
+## Sample Input and Output
 
 ![Sample data Input and Output](example.png)
 
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone the repository
 
